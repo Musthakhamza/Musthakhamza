@@ -49,8 +49,8 @@ Here are some of the things I’m working on:
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: [https://github.com/your-username](https://github.com/Musthakhamza)
+* Email:Musthakhamza@icloud.com
 
 ---
 
